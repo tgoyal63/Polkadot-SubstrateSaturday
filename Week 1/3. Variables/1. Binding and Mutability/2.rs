@@ -2,7 +2,7 @@
 //
 // Given
 //
-// // Fill the blanks in the code to make it compile
+// Fill the blanks in the code to make it compile
 /*fn main() {
     let __ =  1;
     __ += 2;
